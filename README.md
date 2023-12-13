@@ -1,10 +1,11 @@
 This is my exam assignment for C# course
 
 Intro:
+    ```
     The program has the ability to scan different products based on a code e.g "5A",
     and then print out the reciept, either a very simple or more complicated.
     The product codes are genereated and prices are random.
-
+    ```
 Used functionality:
     - First of course OOP, but also value types (struct).
     - My checkout uses a delegate for an event from the scanner. So whenever i call the scan         function, it returns a product for the checkout to process.
