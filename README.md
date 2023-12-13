@@ -8,7 +8,6 @@ Intro:
 Used functionality:
     - First of course OOP, but also value types (struct).
     - My checkout uses a delegate for an event from the scanner. So whenever i call the scan         function, it returns a product for the checkout to process.
-
     - Object initializers for my classes and struct.
     - LINQ syntax to sort and select specific products to print. used in UI class
     - I have an Utils which contains types and static methods which 
